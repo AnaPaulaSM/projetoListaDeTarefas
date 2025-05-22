@@ -32,9 +32,13 @@ Este é um projeto front-end desenvolvido com **HTML**, **CSS** e **JavaScript**
 ## 📁 Estrutura do Projeto
 
 projetoListaDeTarefas/
+
 ├── index.html # Estrutura principal da aplicação
+
 ├── style.css # Estilização da interface
+
 └── script.js # Lógica de funcionamento da lista
+
 
 
 ## ▶️ Como Executar Localmente
